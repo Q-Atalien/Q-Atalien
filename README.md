@@ -4,7 +4,7 @@
 ## Eu sou Atauine 🌌!!
 
 👾 Estou atualmente estagiando como desenvolvedora analista na <a style="text-decoration: none; color: #006400;" href="https://www.linx.com.br/">👩🏻‍💻Linx</a> e estudando análise de sistemas na <a style="text-decoration: none; color: #006400;" href="https://www.sptech.school/">📚SPtech</a>.
-🌇 SP.
+<br>🌇 SP.
 
 📚 Aprendendo JAVA, C#, JavaScript e css.
 <br>
