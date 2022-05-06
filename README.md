@@ -4,13 +4,20 @@
 👾 Estou atualmente estagiando como desenvolvedora analista na <a style="text-decoration: none; color: #006400;" href="https://www.linx.com.br/">👩🏻‍💻Linx</a> e estudando análise de sistemas na <a style="text-decoration: none; color: #006400;" href="https://www.sptech.school/">📚SPtech</a>.
 <br>🌇 SP.
 
-📚 Aprendendo JAVA, C#, JavaScript e css.
+📚 Aprendendo e ultilizando
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+
+          
 
 📐 Mudando os 5° graus todos dias de minha vida, para ir atrás de uma mudança grande.
 <br>
