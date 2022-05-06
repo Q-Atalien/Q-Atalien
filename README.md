@@ -1,5 +1,3 @@
-<img src="https://www.canva.com/design/DAE_8gcKzSE/EN4owSkW5arDcmrlGQha8Q/view?utm_content=DAE_8gcKzSE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt = "aaaa"/>
-
 ### Oie Terráqueo Perdido Por Aqui? 👽
 ## Eu sou Atauine 🌌!!
 
