@@ -4,7 +4,7 @@
 👾 Estou atualmente estagiando como desenvolvedora analista na <a style="text-decoration: none; color: #006400;" href="https://www.linx.com.br/">👩🏻‍💻Linx</a> e estudando análise de sistemas na <a style="text-decoration: none; color: #006400;" href="https://www.sptech.school/">📚SPtech</a>.
 <br>🌇 SP.
 
-## 📚 Aprendendo e ultilizando
+## 📚 Aprendendo e utilizando
 <div align="center" > 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/>
