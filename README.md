@@ -19,9 +19,7 @@
 
  ##         
 
-📐 Mudando os 5° graus todos dias de minha vida, para ir atrás de uma mudança grande.
-<br>
-🌠“Só estrelas cadentes quebram o molde...”🎶
+<p align="center">🌠“Só estrelas cadentes quebram o molde...”🎶</p>
 
 ## GitHub stats
 
