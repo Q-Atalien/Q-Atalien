@@ -1,7 +1,7 @@
 ### Oie Terráqueo Perdido Por Aqui? 👽
 ## Eu sou Atauine 🌌!!
 
-👾 Sou atualmente desenvolvedora junior na <a style="text-decoration: none; color: #006400;" href="https://roko.com.br/">👩🏻‍💻ROKO</a> e estudando análise de sistemas na <a style="text-decoration: none; color: #006400;" href="https://www.sptech.school/">📚SPtech</a>.
+👾 Sou atualmente desenvolvedora junior na <a style="text-decoration: none; color: #006400;" href="https://roko.com.br/">👩🏻‍💻ROKO</a> e graduada análise de sistemas na <a style="text-decoration: none; color: #006400;" href="https://www.sptech.school/">📚SPtech</a>.
 <br>🌇 SP.
 
 ## 📚 Aprendendo e utilizando
