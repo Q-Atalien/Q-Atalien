@@ -1,8 +1,6 @@
-### Oie Terráqueo Perdido Por Aqui? 👽
-## Eu sou Atauine 🌌!!
+### Terráqueo Perdido Por Aqui? 👽
 
-👾 Sou atualmente desenvolvedora junior na <a style="text-decoration: none; color: #006400;" href="https://roko.com.br/">👩🏻‍💻ROKO</a> e graduada análise de sistemas na <a style="text-decoration: none; color: #006400;" href="https://www.sptech.school/">📚SPtech</a>.
-<br>🌇 SP.
+👾 Olá! Eu sou Atauine Dias, uma desenvolvedora com mais de 2 anos de experiência em diversas tecnologias de desenvolvimento web e back-end. Durante minha jornada profissional, tive a oportunidade de trabalhar com uma variedade de tecnologias e frameworks, incluindo Angular, JavaScript, TypeScript, Node.js, Bootstrap e .NET.
 
 ## 📚 Aprendendo e utilizando
 <div align="center" > 
