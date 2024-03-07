@@ -3,9 +3,8 @@
 👾 Olá! Eu sou Atauine Dias, uma desenvolvedora com mais de 2 anos de experiência em diversas tecnologias de desenvolvimento web e back-end. Durante minha jornada profissional, tive a oportunidade de trabalhar com uma variedade de tecnologias e frameworks, incluindo Angular, JavaScript, TypeScript, Node.js, Bootstrap e .NET.
 
 ## 📚 Aprendendo e utilizando
-## 📚 Aprendendo e utilizando
 
-<div align="center" > 
+<div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
@@ -18,20 +17,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>
 
-
- ##         
-
-<p align="center">🌠“Só estrelas cadentes quebram o molde...”🎶</p>
-
-## GitHub stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Q-Atalien">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Q-Atalien&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q-Atalien&layout=compact&langs_count=7&theme=city_lights"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Q-Atalien&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q-Atalien&layout=compact&langs_count=7&theme=city_lights"/>
+  </a>
 </div>
-  
- ## contact me
+
+## Contribuições
+
+<!-- Grafico de produtividade -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/08BDBD/Q-Atalien" alt="Atauine's GitHub chart" />
+</div>
+
+## Contact me
   
 <div align="center"> 
   <a href="https://www.instagram.com/im__roxy/" target="_blank">
@@ -44,7 +46,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
-
-
-
-
