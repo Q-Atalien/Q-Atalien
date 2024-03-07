@@ -1,40 +1,18 @@
-### Terráqueo Perdido Por Aqui? 👽
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6610f2&height=120&section=header"/>
 
-👾 Olá! Eu sou Atauine Dias, uma desenvolvedora com mais de 2 anos de experiência em diversas tecnologias de desenvolvimento web e back-end. Durante minha jornada profissional, tive a oportunidade de trabalhar com uma variedade de tecnologias e frameworks, incluindo Angular, JavaScript, TypeScript, Node.js, Bootstrap e .NET.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6610f2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Atauine+Dias;Tenho+22+anos;Graduada+em+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
-## 📚 Aprendendo e utilizando
+👾 Olá! Eu sou Atauine Dias, uma desenvolvedora com mais de 2 anos de experiência em diversas tecnologias de desenvolvimento web. Durante minha jornada profissional, tive a oportunidade de trabalhar com uma variedade de tecnologias e frameworks, incluindo Angular, JavaScript, TypeScript, Node.js, Bootstrap e .NET.
 
-<div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Q-Atalien&bg_color=0d1117&color=6610f2&line=6610f2&point=6610f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Q-Atalien&show_icons=true&count_private=true&hide_border=true&title_color=6610f2&icon_color=6610f2&text_color=c9d1d9&bg_color=0d1117" alt="Atauine Dias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q-Atalien&layout=compact&hide_border=true&title_color=6610f2&text_color=6610f2&bg_color=0d1117" />
 </div>
 
-## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Q-Atalien">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Q-Atalien&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q-Atalien&layout=compact&langs_count=7&theme=city_lights"/>
-  </a>
-</div>
-
-## Contribuições
-
-<!-- Grafico de produtividade -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/08BDBD/Q-Atalien" alt="Atauine's GitHub chart" />
-</div>
-
-## Contact me
-  
 <div align="center"> 
   <a href="https://www.instagram.com/im__roxy/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -46,3 +24,20 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+ 
+### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-6610f2?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-6610f2?style=for-the-badge&logo=typescript&logoColor=purple&labelColor=0D1117)&nbsp; 
+![CSS](https://img.shields.io/badge/-CSS-6610f2?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-6610f2?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-6610f2?style=for-the-badge&logo=.net&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C#](https://img.shields.io/badge/-CSharp-6610f2?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-6610f2?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-6610f2?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-6610f2?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-6610f2?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6610f2&height=120&section=footer"/>
