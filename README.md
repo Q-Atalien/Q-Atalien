@@ -4,8 +4,6 @@
 
 👾 Olá! Eu sou Atauine Dias, uma desenvolvedora com mais de 2 anos de experiência em diversas tecnologias de desenvolvimento web. Durante minha jornada profissional, tive a oportunidade de trabalhar com uma variedade de tecnologias e frameworks, incluindo Angular, JavaScript, TypeScript, Node.js, Bootstrap e .NET.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Q-Atalien&bg_color=0d1117&color=6610f2&line=6610f2&point=6610f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Q-Atalien&show_icons=true&count_private=true&hide_border=true&title_color=6610f2&icon_color=6610f2&text_color=c9d1d9&bg_color=0d1117" alt="Atauine Dias github stats" /> 
