@@ -1,7 +1,5 @@
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q-Atalien&layout=compact&hide_border=true&title_color=6610f2&text_color=6610f2&bg_color=0d1117" />
-</div>
-<div align="center"> 
   <a href="mailto:atauinesouto@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
