@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6610f2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6610f2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Atauine+Dias;Tenho+23+anos;Graduada+em+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6610f2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Atauine+Dias;Tenho+23+anos)](https://git.io/typing-svg)
 
 👾 Olá! Eu sou Atauine Dias, uma desenvolvedora com mais de 2 anos de experiência em diversas tecnologias de desenvolvimento web. Durante minha jornada profissional, tive a oportunidade de trabalhar com uma variedade de tecnologias e frameworks, incluindo Angular, JavaScript, TypeScript, Node.js, Bootstrap e .NET.
 
