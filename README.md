@@ -3,7 +3,6 @@
 ## Sobre Mim
 - **Atuo**: Desenvolvimento de sistemas, PL/SQL, Oracle APEX, front-end, e programação em geral.
 - **Linguagens**: Javascript, Typescript, C#, .NET, Angular, React
-- **Hobbies**: Leitura, Crochê e Dança
 
 ## Objetivos
 Atualmente, busco me especializar mais em **front-end**, com o objetivo de me tornar um especialista na área. Também estou em constante aprendizado de PL/SQL e Oracle APEX no emprego atual.
